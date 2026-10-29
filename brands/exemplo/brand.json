@@ -1,0 +1,36 @@
+{
+  "name": "Café Aurora",
+  "handle": "@cafeaurora",
+  "description": "Cafeteria de bairro que torra os próprios grãos e vende café especial em grão e moído para levar.",
+  "tagline": "Café fresco, torrado aqui.",
+  "website": "cafeaurora.com.br",
+  "facts": [
+    "Os grãos são torrados na própria loja toda semana.",
+    "Vende café em grão ou moído na hora, para o método que o cliente usa em casa."
+  ],
+  "audience": "Moradores do bairro, 25 a 50 anos, que tomam café todo dia e querem algo melhor que o de supermercado sem complicação.",
+  "language": "pt-BR",
+  "palette": {
+    "espresso": "#2B1A12",
+    "crema": "#F3E6D3",
+    "caramelo": "#C8823A",
+    "folha": "#3F6B4A",
+    "branco": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Fraunces",
+    "text": "Inter"
+  },
+  "voice": [
+    "Acolhedor e direto, como o barista que já sabe o seu pedido.",
+    "Trata por você. Frases curtas.",
+    "Explica sem esnobar: nada de jargão de degustação sem tradução."
+  ],
+  "rules": [
+    "Fundo crema ou espresso; caramelo só como acento.",
+    "Ilustrações simples de grão, xícara e coador desenhadas em SVG."
+  ],
+  "cta": "Passa aqui e prova um espresso por nossa conta.",
+  "keywords": ["café especial", "café torrado na hora", "cafeteria"],
+  "hashtags": ["#cafeespecial", "#cafeteria", "#coffeelover"]
+}

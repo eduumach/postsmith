@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "postsmith": {
+      "command": "bun",
+      "args": ["src/index.ts"],
+      "env": { "OPENROUTER_API_KEY": "${OPENROUTER_API_KEY}" }
+    }
+  }
+}

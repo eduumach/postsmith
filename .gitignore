@@ -1,0 +1,9 @@
+node_modules
+outputs
+.env
+.DS_Store
+.claude/
+
+# Brands are private data; only the example is published.
+brands/*
+!brands/exemplo/

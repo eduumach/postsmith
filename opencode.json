@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "postsmith": {
+      "type": "local",
+      "command": ["bun", "src/index.ts"],
+      "enabled": true,
+      "environment": {
+        "OPENROUTER_API_KEY": "{env:OPENROUTER_API_KEY}"
+      }
+    }
+  }
+}
