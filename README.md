@@ -34,7 +34,7 @@ Formatos: `feed` (1080×1350), `square` (1080×1080) e `story` (1080×1920).
 ## Instalação
 
 ```sh
-git clone https://github.com/<você>/postsmith.git
+git clone https://github.com/eduumach/postsmith.git
 cd postsmith
 bun install
 export OPENROUTER_API_KEY=sk-or-...
@@ -85,3 +85,7 @@ Veja [`brands/exemplo/brand.json`](brands/exemplo/brand.json). Também dá para 
 bun start          # roda o servidor via stdio
 bun run typecheck
 ```
+
+## Licença
+
+[MIT](LICENSE)
